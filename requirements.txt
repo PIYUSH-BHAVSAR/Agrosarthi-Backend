@@ -1,6 +1,6 @@
 ﻿# Server and API
 fastapi==0.115.12
-uvicorn[standard]==0.29.0
+uvicorn==0.29.0
 gunicorn==23.0.0
 starlette==0.46.1
 
