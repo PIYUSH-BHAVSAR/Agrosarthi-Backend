@@ -115,7 +115,7 @@ class UserMessage(BaseModel):
     query: str
 
 # Initialize the Gemini client
-client = genai.Client(api_key="AIzaSyCajv9_POduBEZwkdppKUPrmaIBZp66SS0")
+client = genai.Client(api_key="Your Gemini API key Here")
 
 # Function to interact with Gemini API using genai client
 def formatResponse(responseText: str) -> str:
