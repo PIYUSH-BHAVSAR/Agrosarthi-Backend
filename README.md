@@ -159,8 +159,8 @@ You’ll receive a public Cloud Run URL (e.g. `https://agrosarthi-backend-abc123
 
 ## 🔗 Live API
 
-🌐 [Agrosarthi Backend API](https://YOUR_CLOUD_RUN_URL)  
-🧠 [Agrosarthi Frontend (Coming Soon)]()  
+🌐 [Agrosarthi Backend API](https://agrosarthi-backend-885337506715.asia-south1.run.app)  
+🧠 [Agrosarthi Frontend ](https://agrosarthi-frontend.web.app/)  
 📂 [GitHub Repo](https://github.com/your-username/agrosarthi-backend)
 
 ---
